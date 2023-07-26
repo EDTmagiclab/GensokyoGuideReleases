@@ -16,25 +16,46 @@
 
 幻想万华镜：新人建议只看花之异变之章以前的内容，后面越来越迷惑，不推荐不了解一设的新人来看
 
-幼灵梦/灵灵梦：质量很高，剧情也感人，但是切勿将阿妈这个角色当成一设（EX露米娅也不能算完全的一设）
+幼灵梦/灵灵梦：质量很高，剧情也感人，但是切勿将阿妈这个角色当成一设（EX露米娅[^1]也不能算完全的一设）
 
 梗东方：内容比较有趣，但是涉及到大量二设，请新人自行区分
 
-魔都地铁偷走了重要的东西：虽然是很高质量的音MAD，但有人跑到本家下面去刷就很要命。看完了记得不要KY
+魔都地铁偷走了重要的东西：虽然是很高质量的音MAD，但有人跑到本家[^2]下面去刷就很要命。看完了记得不要KY[^3]
 
 ## <mark style="color:red;">以下二创不建议新人观看：</mark>
 
 {% hint style="danger" %}
-<mark style="color:red;">**古明地恋的心跳大冒险**</mark>
+<mark style="color:red;">**古明地恋的心跳大冒险（一般被简称为恋跳）**</mark>
 
-<mark style="color:red;">本作品存在大量的角色崩坏/角色伤害/OOC等，不建议任何人观看！非常非常不建议！</mark>
+<mark style="color:red;">本作品存在大量的角色崩坏/角色伤害/</mark>[<mark style="color:red;">OOC</mark>](#user-content-fn-4)[^4]<mark style="color:red;">等，不建议任何人观看！非常非常不建议！</mark>
 {% endhint %}
 
 
 
 {% hint style="warning" %}
-<mark style="color:grey;">**幻想万华镜花之异变之章及之后**</mark>
+<mark style="color:yellow;">**幻想万华镜花之异变之章及之后**</mark>
 
-<mark style="color:grey;">内容逐渐离谱，建议新人不要去看</mark>
+<mark style="color:yellow;">内容逐渐离谱，建议新人不要去看</mark>
 {% endhint %}
 
+
+
+{% hint style="warning" %}
+<mark style="color:yellow;">**药味（薬味さらい）作品**</mark>
+
+<mark style="color:yellow;">药味作品可能会让你对幻想乡产生严重的误解，在你完全了解幻想乡之前请勿观看</mark>
+{% endhint %}
+
+[^1]: 指露米娅去除发带封印后的形态
+
+    有人认为红魔乡EX面道中为此形态
+
+[^2]: 即原作《魔理沙偷走了重要的东西》，
+
+    IOSYS所作PV
+
+[^3]: 原意为“读不懂空气”，
+
+    指在不适合的场合玩梗等行为
+
+[^4]: 指人物行为/性格等与一设有较大出入

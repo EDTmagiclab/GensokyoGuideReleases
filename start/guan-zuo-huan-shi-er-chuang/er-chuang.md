@@ -33,8 +33,8 @@
 
 
 {% hint style="warning" %}
-<mark style="color:yellow;">**幻想万华镜花之异变之章及之后**</mark>
+<mark style="color:grey;">**幻想万华镜花之异变之章及之后**</mark>
 
-<mark style="color:yellow;">内容逐渐离谱，建议新人不要去看</mark>
+<mark style="color:grey;">内容逐渐离谱，建议新人不要去看</mark>
 {% endhint %}
 
